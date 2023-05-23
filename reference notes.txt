@@ -1,0 +1,70 @@
+References:
+
+https://www.w3schools.com/tags/tag_meta.asp - used for meta tag examples for reference
+
+
+Notes on the assignment:
+
+Goal:
+Given a webpage with CSS elements and the HTML file catering to a user:
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+
+Acceptance criteria:
+GIVEN a webpage meets accessibility standards
+
+WHEN I view the source code
+THEN I find semantic HTML elements
+(finished perhaps? Changed all the elements in html to match the respective images, fixed the SEO button)
+
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+(Rearranged the structure of the html and CSS pages to follow a top down procedure)
+
+WHEN I view the image elements
+THEN I find accessible alt attributes
+(Added alt attributes to the img lines to add descriptors)
+
+WHEN I view the heading attributes
+THEN they fall in sequential order
+(Heading attributes go from highest to lowest)
+
+WHEN I view the title element
+THEN I find a concise, descriptive title
+(added a title to the webpage)
+
+To do list: 
+Check the source code and make sure the semantics line up.
+This mean to check each element and it has an appropriate corresponding title
+
+When viewing the structure of the HTML elements - has a reasonable structure from top to bottom based on what appears in the page.
+Ask for clarification.
+
+Update when asked below for what I should look out for:
+
+Viewing image elements - finding accessible alt attributes. What does it mean exactly?
+Making the image accessible in the image formatting by adding alt="insert description here".
+
+Heading attributes - falling in sequential order. Clarification on what this means exactly.
+
+viewing title element for the webpage, make sure it has a proper descriptor as the title when deployed on a website on the upper tab.
+
+Initial thoughts after viewing and making some changes: 
+
+The elements in the HTML file are mostly correct with some changes made to the semantics. 
+Tried to do the title and elements to make sure they all line up.
+Fixed the naming so all the ids and classes match with the pictures.
+Made the search engine optimization button work.
+Added metadata keywords and description to the header.
+
+Made the style.css file match with the descriptions in the images and html file.
+Ask about merging certain elements in the style.css file to reduce redundancies or if they should be kept for unique identifiers.
+Rearranged the order to go from top to bottom starting with the header and then left side of the webpage before the right box.
+Grouped the functions by named sections
+
+Things to do and be aware of: Adding some comments in the html and some places in style.css for descriptions.
+Making a proper README file based off of previous example in prework module.
+Getting used to updating to github pulling and pushing
+
+Meeting with TA: Just be prepared for tomorrow 5/23 for more details regarding the module html formatting and what the best practices are.
