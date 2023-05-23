@@ -4,9 +4,15 @@
 
 This webpage was reformatted by the specifities included in the assignment to satisfy the User's acceptance criteria when it came to their web page. The code was cleaned up and made more accurate to better depict search engine optimization for a marketing company Horiseon. Slight adjustments were made to tags and elements to better fit in a uniform styled fashion with the image names. Comments were added to give clear indicators on specific sections of the code describing what each section is about. The actual look of the webpage was kept mostly intact from the initial code given to work on.
 
+## Visuals
+
+![Webpage Top Half](\assets\images\website-module-visual-1.png)
+
+![Webpage Bottom Half](\assets\images\website-module-visual-2.png)
+
 ## Installation
 
-N/A - Provided as a link
+Provided as a link here - https://reyesfrancisp.github.io/website_module_01/
 
 ## Usage
 
