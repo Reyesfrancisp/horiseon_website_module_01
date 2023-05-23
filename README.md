@@ -6,9 +6,10 @@ This webpage was reformatted by the specifities included in the assignment to sa
 
 ## Visuals
 
-![Webpage Top Half](./assets\images\website-module-visual-1.png)
 
-![Webpage Bottom Half](./assets\images\website-module-visual-2.png)
+<img src="./assets/images/website-module-visual-1.png" >
+
+<img src="./assets/images/website-module-visual-2.png" >
 
 ## Installation
 
