@@ -6,14 +6,13 @@ This webpage was reformatted by the specifities included in the assignment to sa
 
 ## Visuals
 
-
 <img src="./assets/images/website-module-visual-1.png" >
 
 <img src="./assets/images/website-module-visual-2.png" >
 
 ## Installation
 
-Provided as a link here - https://reyesfrancisp.github.io/website_module_01/
+Provided as a link here - https://reyesfrancisp.github.io/horiseon_website_module_01/
 
 ## Usage
 
@@ -23,6 +22,7 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 
 ## Credits
 
+ASKBCS - Helped me to get the linking images working in the readme file
 Paul Cwik - For being an awesome TA, responding and answer questions
 JD Tadlock - For helping us understand how to code things from beginners to experts
 
