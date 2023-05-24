@@ -1,4 +1,6 @@
-# Code Refactor Starter Code by Francis Reyes- Module 1 for Rutgers Coding Bootcamp
+# Code Refactor Starter Code 
+## Author: Francis Reyes- Module 1 
+
 
 ## Description
 
@@ -10,9 +12,9 @@ This webpage was reformatted by the specifities included in the assignment to sa
 
 <img src="./assets/images/website-module-visual-2.png" >
 
-## Installation
+## Deployment
 
-Provided as a link here - https://reyesfrancisp.github.io/horiseon_website_module_01/
+Provided as a link here - [Module 01](https://reyesfrancisp.github.io/horiseon_website_module_01/)
 
 ## Usage
 
@@ -22,9 +24,11 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 
 ## Credits
 
-ASKBCS - Helped me to get the linking images working in the readme file
-Paul Cwik - For being an awesome TA, responding and answer questions
-JD Tadlock - For helping us understand how to code things from beginners to experts
+- ASKBCS - Helped me to get the linking images working in the readme file
+
+- Paul Cwik - For being an awesome TA, responding and answering my questions about the assignment
+
+- JD Tadlock - For helping us understand how to code things from beginners to experts
 
 ## License
 
